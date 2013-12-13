@@ -1,0 +1,10 @@
+D:\VSS Working\Car Service\Service\CarsInfo\bin\Debug\CarsInfo.dll
+D:\VSS Working\Car Service\Service\CarsInfo\bin\Debug\CarsInfo.pdb
+D:\VSS Working\Car Service\Service\CarsInfo\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS Working\Car Service\Service\CarsInfo\obj\Debug\CarsInfo.dll
+D:\VSS Working\Car Service\Service\CarsInfo\obj\Debug\CarsInfo.pdb
+D:\MobileService\Service\CarsInfo\bin\Debug\CarsInfo.dll
+D:\MobileService\Service\CarsInfo\bin\Debug\CarsInfo.pdb
+D:\MobileService\Service\CarsInfo\obj\Debug\ResolveAssemblyReference.cache
+D:\MobileService\Service\CarsInfo\obj\Debug\CarsInfo.dll
+D:\MobileService\Service\CarsInfo\obj\Debug\CarsInfo.pdb
